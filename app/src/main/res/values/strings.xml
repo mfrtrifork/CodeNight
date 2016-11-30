@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Goto Night</string>
+    <string name="welcome_message">Hello Tarp!</string>
+    <string name="username">Username</string>
+</resources>
